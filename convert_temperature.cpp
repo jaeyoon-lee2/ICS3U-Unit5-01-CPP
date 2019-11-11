@@ -9,8 +9,8 @@
 void ConvertTemperature() {
     // convert temperature
 
-    int tc;
-    int tf;
+    float tc;
+    float tf;
 
     // input
     std::cout << "Enter the temperature in degrees Celsius (°C): ";
